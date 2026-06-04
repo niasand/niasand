@@ -49,8 +49,8 @@ CLI 工具、框架和实用程序。
 用 Kotlin 构建的移动应用。
 
 🥾 [**hiking-happy**](https://github.com/niasand/hiking-happy) — 户外徒步实时高度计和速度计<br>
-💓 [**heartbeat**](https://github.com/niasand/heartbeat) — Kotlin 实验<br>
-🗺️ [**thingspath**](https://github.com/niasand/thingspath) — Kotlin 实验
+💓 [**heartbeat**](https://github.com/niasand/heartbeat) — Android 心率监测应用，连接 BLE 心率设备，支持实时 BPM、历史记录和倒计时训练（Kotlin）<br>
+🗺️ [**thingspath**](https://github.com/niasand/thingspath) — Android 家庭物品管理应用，追踪物品存储位置、购买信息和使用状态（Kotlin）
 
 ---
 

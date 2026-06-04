@@ -49,8 +49,8 @@ Browser extensions and web applications.
 Mobile apps built with Kotlin.
 
 🥾 [**hiking-happy**](https://github.com/niasand/hiking-happy) — Real-time altimeter & speedometer for outdoor hiking<br>
-💓 [**heartbeat**](https://github.com/niasand/heartbeat) — Kotlin experiments<br>
-🗺️ [**thingspath**](https://github.com/niasand/thingspath) — Kotlin experiments
+💓 [**heartbeat**](https://github.com/niasand/heartbeat) — Android heart rate monitor that connects to BLE devices for real-time BPM, history tracking, and countdown training (Kotlin)<br>
+🗺️ [**thingspath**](https://github.com/niasand/thingspath) — Android family item management app for tracking storage locations, purchase info, and usage status (Kotlin)
 
 ---
 
