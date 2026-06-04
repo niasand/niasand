@@ -24,7 +24,9 @@ QA 工程师转型 Builder。做 AI 驱动的开发者工具，从 Chrome 扩展
 AI Agent 相关工具和自动化工作流。
 
 🎛️ [**miniagent**](https://github.com/niasand/miniagent) — 统一 CLI Agent 接口（TypeScript）
+
 🐦 [**web_anywhere**](https://github.com/niasand/web_anywhere) 🔒 — X/Twitter GraphQL API 客户端（Python）
+
 📖 [**happyread**](https://github.com/niasand/happyread) 🔒 — AI 阅读工具（Python）
 
 ---
@@ -34,6 +36,7 @@ AI Agent 相关工具和自动化工作流。
 CLI 工具、框架和实用程序。
 
 🖥️ [**Kaku**](https://github.com/niasand/Kaku) — AI 编程终端（Rust）
+
 📊 [**system\_monitor**](https://github.com/niasand/system_monitor) — 系统监控工具（Rust）
 
 ---
@@ -43,6 +46,7 @@ CLI 工具、框架和实用程序。
 浏览器扩展和 Web 应用。
 
 🗂️ [**my-tab**](https://github.com/niasand/my-tab) 🔒 — AI 驱动的 Chrome 新标签页（TypeScript）
+
 📐 [**mixx**](https://github.com/niasand/mixx) 🔒 — Web 项目（[Demo](https://minix-green.vercel.app)）
 
 ---
@@ -52,7 +56,9 @@ CLI 工具、框架和实用程序。
 用 Kotlin 构建的移动应用。
 
 🥾 [**hiking-happy**](https://github.com/niasand/hiking-happy) — 户外徒步实时高度计和速度计
+
 💓 [**heartbeat**](https://github.com/niasand/heartbeat) — Kotlin 实验
+
 🗺️ [**thingspath**](https://github.com/niasand/thingspath) — Kotlin 实验
 
 ---

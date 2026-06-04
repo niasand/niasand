@@ -24,7 +24,9 @@ The ones I'm most proud of.
 Tools for working with AI agents and automating workflows.
 
 🎛️ [**miniagent**](https://github.com/niasand/miniagent) — Unified interface for Codex CLI, Claude Code, and Trae CLI (TypeScript)
+
 🐦 [**web_anywhere**](https://github.com/niasand/web_anywhere) 🔒 — X/Twitter GraphQL API client (Python)
+
 📖 [**happyread**](https://github.com/niasand/happyread) 🔒 — AI-powered reading tool (Python)
 
 ---
@@ -34,6 +36,7 @@ Tools for working with AI agents and automating workflows.
 CLI tools, frameworks, and utilities.
 
 🖥️ [**Kaku**](https://github.com/niasand/Kaku) — Fast terminal for AI coding (Rust)
+
 📊 [**system\_monitor**](https://github.com/niasand/system_monitor) — System monitoring tool (Rust)
 
 ---
@@ -43,6 +46,7 @@ CLI tools, frameworks, and utilities.
 Browser extensions and web applications.
 
 🗂️ [**my-tab**](https://github.com/niasand/my-tab) 🔒 — Chrome new tab dashboard with AI top picks (TypeScript)
+
 📐 [**mixx**](https://github.com/niasand/mixx) 🔒 — Web project ([Demo](https://minix-green.vercel.app))
 
 ---
@@ -52,7 +56,9 @@ Browser extensions and web applications.
 Mobile apps built with Kotlin.
 
 🥾 [**hiking-happy**](https://github.com/niasand/hiking-happy) — Real-time altimeter & speedometer for outdoor hiking
+
 💓 [**heartbeat**](https://github.com/niasand/heartbeat) — Kotlin experiments
+
 🗺️ [**thingspath**](https://github.com/niasand/thingspath) — Kotlin experiments
 
 ---
