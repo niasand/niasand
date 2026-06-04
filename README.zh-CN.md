@@ -40,7 +40,7 @@ CLI 工具、框架和实用程序。
 浏览器扩展和 Web 应用。
 
 🗂️ [**my-tab**](https://github.com/niasand/my-tab) 🔒 — AI 驱动的 Chrome 新标签页（TypeScript）<br>
-📐 [**mixx**](https://github.com/niasand/mixx) 🔒 — Web 项目
+📐 [**mixx**](https://github.com/niasand/mixx) 🔒 — 极简 Twitter 克隆，基于 Next.js + Supabase + shadcn/ui 构建（TypeScript）
 
 ---
 

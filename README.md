@@ -40,7 +40,7 @@ CLI tools, frameworks, and utilities.
 Browser extensions and web applications.
 
 🗂️ [**my-tab**](https://github.com/niasand/my-tab) 🔒 — Chrome new tab dashboard with AI top picks (TypeScript)<br>
-📐 [**mixx**](https://github.com/niasand/mixx) 🔒 — Web project ([Demo](https://minix-green.vercel.app))
+📐 [**mixx**](https://github.com/niasand/mixx) 🔒 — Minimalist Twitter clone built with Next.js, Supabase, and shadcn/ui (TypeScript)
 
 ---
 
