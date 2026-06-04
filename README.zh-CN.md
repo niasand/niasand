@@ -40,7 +40,7 @@ CLI 工具、框架和实用程序。
 浏览器扩展和 Web 应用。
 
 🗂️ [**my-tab**](https://github.com/niasand/my-tab) 🔒 — AI 驱动的 Chrome 新标签页（TypeScript）<br>
-📐 [**mixx**](https://github.com/niasand/mixx) 🔒 — Web 项目（[Demo](https://minix-green.vercel.app)）
+📐 [**mixx**](https://github.com/niasand/mixx) 🔒 — Web 项目
 
 ---
 
