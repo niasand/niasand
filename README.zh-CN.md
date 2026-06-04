@@ -4,7 +4,7 @@
 
 QA 工程师转型 Builder。做 AI 驱动的开发者工具，从 Chrome 扩展到 Rust CLI 什么都折腾。坐标深圳。代码是我探索想法的方式。
 
-🐦 [X](https://x.com/tencranx) · ✍️ [博客](https://cloudcold.ai) · 🐙 [GitHub](https://github.com/niasand)
+🐦 [X](https://x.com/tencranx) · ✍️ [博客](https://tencrance.blogspot.com/) · 🐙 [GitHub](https://github.com/niasand)
 
 ---
 

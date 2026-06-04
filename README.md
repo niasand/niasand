@@ -4,7 +4,7 @@
 
 QA engineer turned builder. I make AI-powered developer tools and tinker with everything from Chrome extensions to Rust CLIs. Based in Shenzhen. Code is how I explore ideas.
 
-🐦 [X](https://x.com/tencranx) · ✍️ [Blog](https://cloudcold.ai) · 🐙 [GitHub](https://github.com/niasand)
+🐦 [X](https://x.com/tencranx) · ✍️ [Blog](https://tencrance.blogspot.com/) · 🐙 [GitHub](https://github.com/niasand)
 
 ---
 
