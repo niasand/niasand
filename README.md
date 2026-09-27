@@ -1,6 +1,6 @@
 # Hi, I'm Zhiwei 👋
 
-**English** · [中文](README.zh-CN.md)
+**English** ·
 
 QA engineer turned builder. I make AI-powered developer tools and tinker with everything from Chrome extensions to Rust CLIs. Based in Shenzhen. Code is how I explore ideas.
 
@@ -24,8 +24,8 @@ The ones I'm most proud of.
 
 ## 🌐 Web Apps & Extensions
 
-🗂️ [**my-tab**](https://github.com/niasand/my-tab) 🔒 — Chrome new tab dashboard with AI top picks (TypeScript)<br>
-📐 [**mixx**](https://github.com/niasand/mixx) 🔒 — Minimalist Twitter clone built with Next.js, Supabase, and shadcn/ui (TypeScript)
+🗂️ [**my-tab**](https://chromewebstore.google.com/detail/tab-home-%E2%80%94-your-new-tab-d/pgldpmdpbdpondpbpdmicpgdcldbmlej?authuser=0&hl=en)  — Chrome new tab dashboard with AI top picks (TypeScript)<br>
+
 
 ---
 
@@ -33,9 +33,6 @@ The ones I'm most proud of.
 
 💓 [**heartbeat**](https://github.com/niasand/heartbeat) — Android heart rate monitor that connects to BLE devices for real-time BPM, history tracking, and countdown training (Kotlin)<br>
 🗺️ [**thingspath**](https://github.com/niasand/thingspath) — Android family item management app for tracking storage locations, purchase info, and usage status (Kotlin)
-
----
-
 
 ---
 
